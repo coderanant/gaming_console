@@ -1,7 +1,20 @@
-#Add your project to this repo
+**Team Name**:  Memory Leaks
+======
 
-## update readme accordingly
+**Team Members**:  
 
-###It should have
-####How to run?
-####What to install and how?
+    1. Vedannt Rajoo  
+	  2. Anant Kumar  
+		3. Priyank Kumar  
+		4. Jatin Nagpal  
+		5. Ananya (Volunteer;Not Registered)  
+
+**Mentor**:  Srb Cheema
+
+**Project Name**: Game Console
+
+**Project Description**:
+
+
+
+
