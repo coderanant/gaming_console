@@ -15,4 +15,6 @@
 
 **Project Description**:
 
-*Introduction: Our project includes of a handful of mini-games built using Pygame module of Python. The games include 2048, Flappy Bird, Brick Filler, Ping Pong.
+* Introduction: Our project includes of a handful of mini-games built using Pygame module of Python. The games include _2048, Flappy Bird, Brick Filler, Ping Pong_.
+
+* System Requirememts: 
