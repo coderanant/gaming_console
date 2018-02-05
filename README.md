@@ -4,11 +4,10 @@
 
 **Team Members**:  
 
-    1. Vedannt Rajoo  
-    2. Anant Kumar  
-    3. Priyank Kumar  
-    4. Jatin Nagpal  
-    5. Ananya (Volunteer;Not Registered)  
+    1. Vedannt Rajoo (1st year)  
+    2. Anant Kumar (1st year)  
+    3. Priyank Kumar (1st year)  
+    4. Jatin Nagpal (1st year)  
 
 **Mentor**:  Srb Cheema
 
@@ -16,6 +15,4 @@
 
 **Project Description**:
 
-
-
-
+*Introduction: Our project includes of a handful of mini-games built using Pygame module of Python. The games include 2048, Flappy Bird, Brick Filler, Ping Pong.
